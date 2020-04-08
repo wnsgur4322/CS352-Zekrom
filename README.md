@@ -7,3 +7,4 @@ CS352-Zekrom group github repo
 ### Samuel Kim
 ### Yelang Liu
 ### Kaitlan McKinnis-Waggoner
+### Haozhe Li
